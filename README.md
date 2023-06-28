@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python developer and Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124291081/237048999-083e31a6-83c8-4893-a50a-6a36efb578b2.png">
 
-- 🌱 I’m currently learning **Numpy,Pandas,React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshPrajapati25](https://github.com/HarshPrajapati25)
 
