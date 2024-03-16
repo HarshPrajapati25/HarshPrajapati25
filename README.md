@@ -31,7 +31,7 @@
   </a>
   <!-- Firebase Icon -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+    <img src="[https://cdn.jsdelivr.net/npm/devicon/firebase-plain.svg](https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/firebase/firebase-original.svg)" alt="firebase" width="40" height="40"/>
   </a>
   <!-- GraphQL Icon -->
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
