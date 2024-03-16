@@ -29,13 +29,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <!-- Firebase Icon -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="[https://cdn.jsdelivr.net/npm/devicon/firebase-plain.svg](https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/firebase/firebase-original.svg)" alt="firebase" width="40" height="40"/>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <!-- GraphQL Icon -->
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshprajapati25&show_icons=true&locale=en&layout=compact" alt="harshprajapati25" /></p>
