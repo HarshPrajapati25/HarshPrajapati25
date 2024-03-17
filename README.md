@@ -37,3 +37,5 @@
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshprajapati25&show_icons=true&locale=en&layout=compact" alt="harshprajapati25" /></p>
+
+![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshPrajapati25&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)
